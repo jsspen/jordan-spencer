@@ -15,7 +15,6 @@ style = "github-dark"
   description = "Jordan Spencer's Personal Website'"
   keywords = "blog,developer,personal,portfolio"
   avatarurl = "/images/avatar.jpg"
-  #gravatar = "john.doe@example.com"
 
   faviconSVG = "/img/favicon.svg"
   favicon_32 = "/img/favicon-32x32.png"
@@ -28,7 +27,7 @@ style = "github-dark"
   colorScheme = "auto"
   hidecolorschemetoggle = false
 
-  # customCSS = ["css/custom.css"]
+  #customCSS = ["css/custom.css"]
   # customSCSS = ["scss/custom.scss"]
   # customJS = ["js/custom.js"]
 
@@ -38,7 +37,6 @@ style = "github-dark"
   tag = "tags"
   author = "authors"
 
-# Social links
 [[params.social]]
   name = "Github"
   icon = "fa-brands fa-github fa-2x"
@@ -60,12 +58,15 @@ style = "github-dark"
   weight = 4
   url = "mailto:Jordan.S.Spencer@gmail.com"
 
-# Menu links
-#[[menu.main]]
-  #name = "Blog"
-  #weight = 1
-  #url  = "posts/"
-#[[menu.main]]
-  #name = "About"
-  #weight = 2
-  #url = "about/"
+[[menu.main]]
+  name = "About"
+  weight = 1
+  url = "about/"
+[[menu.main]]
+  name = "Resume"
+  weight = 2
+  url  = "resume/"
+[[menu.main]]
+  name = "Blog"
+  weight = 3
+  url  = "posts/"

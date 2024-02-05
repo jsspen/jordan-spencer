@@ -7,5 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <atom:link href="http://jsspen.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Resume</title>
+      <link>http://jsspen.github.io/resume/</link>
+      <pubDate>Mon, 05 Feb 2024 13:11:08 -0500</pubDate>
+      <guid>http://jsspen.github.io/resume/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://jsspen.github.io/about/</link>
+      <pubDate>Mon, 05 Feb 2024 12:49:32 -0500</pubDate>
+      <guid>http://jsspen.github.io/about/</guid>
+      <description>How Did I Get Here? Link to heading In the Spring of 2020 I was working in the curatorial office of a beloved art museum and by the end of the year I was gearing up to embark on a new journey as a junior developer at a fast-growing startup. The onset of a global pandemic presented me with an unexpected opportunity to pivot, leading me to plunge headfirst into the realm of programming.</description>
+    </item>
   </channel>
 </rss>
