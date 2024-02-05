@@ -2,14 +2,14 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>/authors/</loc>
+    <loc>http://jsspen.github.io/authors/</loc>
   </url><url>
-    <loc>/categories/</loc>
+    <loc>http://jsspen.github.io/categories/</loc>
   </url><url>
-    <loc>/</loc>
+    <loc>http://jsspen.github.io/</loc>
   </url><url>
-    <loc>/series/</loc>
+    <loc>http://jsspen.github.io/series/</loc>
   </url><url>
-    <loc>/tags/</loc>
+    <loc>http://jsspen.github.io/tags/</loc>
   </url>
 </urlset>

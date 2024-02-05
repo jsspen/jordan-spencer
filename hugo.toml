@@ -1,4 +1,4 @@
-#baseurl = "http://www.example.com"
+baseurl = "http://jsspen.github.io"
 title = "Jordan Spencer | Dev"
 theme = "hugo-coder"
 languagecode = "en"
