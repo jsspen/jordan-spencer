@@ -14,7 +14,7 @@ style = "github-dark"
   info = "Full Stack Software Developer"
   description = "Jordan Spencer's Personal Website'"
   keywords = "blog,developer,personal,portfolio"
-  avatarurl = "images/avatar.jpg"
+  avatarurl = "/images/avatar.jpg"
   #gravatar = "john.doe@example.com"
 
   faviconSVG = "/img/favicon.svg"
