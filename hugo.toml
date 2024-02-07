@@ -29,8 +29,8 @@ style = "github-dark"
   hidecolorschemetoggle = false
 
   #customCSS = ["css/custom.css"]
-  # customSCSS = ["scss/custom.scss"]
-  # customJS = ["js/custom.js"]
+  #customSCSS = ["scss/custom.scss"]
+  #customJS = ["js/custom.js"]
 
 [taxonomies]
   category = "categories"
@@ -67,6 +67,10 @@ style = "github-dark"
   name = "Resume"
   weight = 2
   url  = "resume/"
+[[menu.main]]
+  name = "Projects"
+  weight = 3
+  url  = "projects/"
 #[[menu.main]]
   #name = "Blog"
   #weight = 3
