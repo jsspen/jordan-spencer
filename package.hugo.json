@@ -1,4 +1,10 @@
 {
+  "comments": {
+    "dependencies": {
+      "hugo": "project"
+    },
+    "devDependencies": {}
+  },
   "dependencies": {
     "browserify": "^17.0.0",
     "color-convert": "^2.0.1",
@@ -7,6 +13,5 @@
     "hugo-extended": "^0.128.0",
     "npm-check-updates": "^16.14.20",
     "uglify-js": "^3.18.0"
-  },
-  "devDependencies": {}
+  }
 }
