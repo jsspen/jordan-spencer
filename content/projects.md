@@ -1,7 +1,6 @@
 +++
 date = 2024-02-05T13:50:45-05:00
 draft = false
-title = "Projects"
 +++
 
 # Here's What I've Been Working On...

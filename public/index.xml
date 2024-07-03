@@ -9,21 +9,21 @@
     <lastBuildDate>Mon, 05 Feb 2024 13:50:45 -0500</lastBuildDate>
     <atom:link href="http://jsspen.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Projects</title>
+      <title></title>
       <link>http://jsspen.github.io/projects/</link>
       <pubDate>Mon, 05 Feb 2024 13:50:45 -0500</pubDate>
       <guid>http://jsspen.github.io/projects/</guid>
       <description>Here&amp;rsquo;s What I&amp;rsquo;ve Been Working On&amp;hellip;&#xD;Link to heading&#xD;Generative AI &amp;amp; Prompt Engineering &amp;ndash; It is 2024, after all, and my parents have questions. Kubernetes &amp;ndash; While I have been successfully managing my own containers with a self-hosted instance of Portainer, I recognize the importance of a more robust managaement platform like K8s, especially for enterprise-level projects. Automation &amp;amp; Scripting, Python, Github Actions. Linux &amp;ndash; I&amp;rsquo;ve been regularly using Linux for a few years now but I quickly learned there is always so much more to learn.</description>
     </item>
     <item>
-      <title>Resume</title>
+      <title></title>
       <link>http://jsspen.github.io/resume/</link>
       <pubDate>Mon, 05 Feb 2024 13:11:08 -0500</pubDate>
       <guid>http://jsspen.github.io/resume/</guid>
       <description>&#xD;Previous&#xD;Next &amp;nbsp; &amp;nbsp;&#xD;/ [pdf]&#xD;View the PDF file here.&#xD;</description>
     </item>
     <item>
-      <title>About</title>
+      <title></title>
       <link>http://jsspen.github.io/about/</link>
       <pubDate>Mon, 05 Feb 2024 12:49:32 -0500</pubDate>
       <guid>http://jsspen.github.io/about/</guid>
