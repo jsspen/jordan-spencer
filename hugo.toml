@@ -1,6 +1,6 @@
 baseurl = "http://jsspen.github.io"
 title = "Jordan Spencer | Dev"
-theme = ["hugo-embed-pdf-shortcode-roneo", "hugo-coder"]
+theme = ["hugo-embed-pdf-shortcode", "hugo-coder"]
 languagecode = "en"
 defaultcontentlanguage = "en"
 enableInlineShortcodes = true

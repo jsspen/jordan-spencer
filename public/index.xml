@@ -4,29 +4,30 @@
     <title>Jordan Spencer | Dev</title>
     <link>http://jsspen.github.io/</link>
     <description>Recent content on Jordan Spencer | Dev</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en</language>
+    <lastBuildDate>Mon, 05 Feb 2024 13:50:45 -0500</lastBuildDate>
     <atom:link href="http://jsspen.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title></title>
       <link>http://jsspen.github.io/projects/</link>
       <pubDate>Mon, 05 Feb 2024 13:50:45 -0500</pubDate>
       <guid>http://jsspen.github.io/projects/</guid>
-      <description>Current Interests Link to heading Go &amp;ndash; This entire site was built using Hugo, a static site generator written in Go. Kubernetes &amp;ndash; While I have been successfully managing my own containers with a self-hosted instance of Portainer, I recognize the importance of a more robust managaement platform like K8s, especially for enterprise-level projects. Generative AI &amp;amp; Prompt Engineering &amp;ndash; It is 2024, after all, and my parents have questions.</description>
+      <description>Here&amp;rsquo;s What I&amp;rsquo;ve Been Working On&amp;hellip;&#xD;Link to heading&#xD;Generative AI &amp;amp; Prompt Engineering &amp;ndash; It is 2024, after all, and my parents have questions. Kubernetes &amp;ndash; While I have been successfully managing my own containers with a self-hosted instance of Portainer, I recognize the importance of a more robust managaement platform like K8s, especially for enterprise-level projects. Automation &amp;amp; Scripting, Python, Github Actions. Linux &amp;ndash; I&amp;rsquo;ve been regularly using Linux for a few years now but I quickly learned there is always so much more to learn.</description>
     </item>
     <item>
       <title></title>
       <link>http://jsspen.github.io/resume/</link>
       <pubDate>Mon, 05 Feb 2024 13:11:08 -0500</pubDate>
       <guid>http://jsspen.github.io/resume/</guid>
-      <description> </description>
+      <description>&#xD;Previous&#xD;Next &amp;nbsp; &amp;nbsp;&#xD;/ [pdf]&#xD;View the PDF file here.&#xD;</description>
     </item>
     <item>
       <title></title>
       <link>http://jsspen.github.io/about/</link>
       <pubDate>Mon, 05 Feb 2024 12:49:32 -0500</pubDate>
       <guid>http://jsspen.github.io/about/</guid>
-      <description>How Did I Get Here? Link to heading In the Spring of 2020 I was working in the curatorial office of a beloved art museum and by the end of the year I was gearing up to embark on a new journey as a junior developer at a fast-growing startup. The onset of a global pandemic presented me with an unexpected opportunity to pivot, leading me to plunge headfirst into the realm of programming.</description>
+      <description>How Did I Get Here?&#xD;Link to heading&#xD;In the Spring of 2020 I was working in the curatorial office of a beloved art museum and by the end of the year I was gearing up to embark on a new journey as a junior developer at a fast-growing startup. The onset of a global pandemic presented me with an unexpected opportunity to pivot, leading me to plunge headfirst into the realm of programming.</description>
     </item>
   </channel>
 </rss>
